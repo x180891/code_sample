@@ -1,0 +1,9 @@
+Pages\AxaOffersPage.class
+Pages\MubiCarDataPage.class
+tests\Base.class
+Pages\AxaHomePage.class
+Pages\MubiOffersPage.class
+Pages\MubiHomePage.class
+tests\GetPricesFromBothPages.class
+Pages\AxaCarDataPage.class
+Pages\Utils.class
